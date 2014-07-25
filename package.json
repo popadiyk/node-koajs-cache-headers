@@ -1,0 +1,26 @@
+{
+  "name": "node-koajs-cache-headers",
+  "version": "0.0.0",
+  "description": "small helper for koa.js to send cache headers",
+  "main": "./lib/cacheHeaders.js",
+  "dependencies": {
+    "config": "^1.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ria-com/node-koajs-cache-headers.git"
+  },
+  "keywords": [
+    "koajs",
+    "helper",
+    "cache",
+    "headers"
+  ],
+  "author": "SamhainG",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ria-com/node-koajs-cache-headers/issues"
+  },
+  "homepage": "https://github.com/ria-com/node-koajs-cache-headers"
+}
